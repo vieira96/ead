@@ -4,4 +4,4 @@
 
 <h3> Vou deixar aberto, como é meu primeiro sistema, no começo iniciei com Tailwind, mas depois fui pegando mais o jeito no html, css e js puro, entao comecei a usar puro, n achei viavel fazer tudo denovo. </h3>
 
-<h4> Para iniciar o teste, execute um php artisan migrate.  Quando criado, acesse ao banco de dados e coloque o office do seu usuário criado como 2, os cargos são 0 - aluno, 1 - professor, 3 - administrador.  </h4>
+<h4> Para iniciar o teste, execute um comando do composer/ renomear .enx-example para .env/ php artisan key:generate para criar a chave da aplicação e altere o nome do banco que voce quer/ php artisan migrate. Quando criado, acesse ao banco de dados e coloque o office do seu usuário criado como 2, os cargos são 0 - aluno, 1 - professor, 3 - administrador.  </h4>
